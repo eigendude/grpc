@@ -54,7 +54,6 @@
       '-g',
       '-Wall',
       '-Wextra',
-      '-Werror',
       '-Wno-long-long',
       '-Wno-unused-parameter',
       '-DOSATOMIC_USE_INLINED=1',
